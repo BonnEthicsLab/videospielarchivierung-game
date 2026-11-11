@@ -1,6 +1,6 @@
 # World of Videospielarchivierungsethik
 
-A browser-playable Godot game, published using GitHub Pages. [Click Here]([https://bonnethicslab.github.io/pmh-scrollytelling/](https://bonnethicslab.github.io/videospielarchivierung-game/))
+A browser-playable Godot game, published using GitHub Pages. [Click Here]([https://bonnethicslab.github.io/pmh-scrollytelling/](https://bonnethicslab.github.io/videospielarchivierung-game/)
 
 ## Live game
 
